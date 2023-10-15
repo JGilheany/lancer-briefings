@@ -103,6 +103,11 @@ export default {
           "name": "Vigilant Gaze",
           "status": "start"
         },
+        {
+          "slug": "003",
+          "name": "Stalwart Placeholder",
+          "status": "start",
+        },
       ],
       "pilots": [
         {
