@@ -108,7 +108,7 @@ export default {
         {
           "callsign": "Axel",
           "alias": "Jebidiah Diaz",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "61d141ca-e9fd-4612-94c1-54e867fa5587Diaz.Jebediah:61d141ca-e9fd-4612-94c1-54e867fa5587//NDL-C-BLACK-STATION"
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Bertha"
@@ -116,7 +116,7 @@ export default {
         {
           "callsign": "Eagle",
           "alias": "John War II",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "86879ffc-2891-44ed-8885-93bb4f62f871War.John:86879ffc-2891-44ed-8885-93bb4f62f871//NDL-C-BLOOD-ORCHID ",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Bob Battle"
@@ -124,7 +124,7 @@ export default {
         {
           "callsign": "Sloth",
           "alias": "Of Course I Still Love You!",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "0e75f734-6276-43aa-904f-375cd08028cbyou!.Of.course.I.still.love:0e75f734-6276-43aa-904f-375cd08028cb//NDL-C-HUNTER'S-DECEMBER",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Messiah"
@@ -132,7 +132,7 @@ export default {
         {
           "callsign": "Trojan",
           "alias": "Rod Silver",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "0e19579c-5fba-4fc0-a3c2-1476c62cd935Silver.Rod:0e19579c-5fba-4fc0-a3c2-1476c62cd935//NDL-C-IRON-SKY ",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Download More RAM"
@@ -140,7 +140,7 @@ export default {
         {
           "callsign": "Sekhmet",
           "alias": "SEKHMET-K4",
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "da58ba8a-32a8-44fe-8316-ecb1aa0448e5.S.K4:da58ba8a-32a8-44fe-8316-ecb1aa0448e5//NDL-C-SECOND-AXE",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Khopesh"
