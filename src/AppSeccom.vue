@@ -154,13 +154,13 @@ export default {
       ],
       "header": {
         "planet": "Hercynia",
-        "year": "5014u",
+        "year": "4510u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
+        "headerTitle": "UNION",
+        "headerSubtitle": "TBK Protocol",
+        "subheaderTitle": "Subjugation Squad",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
       "options":{
