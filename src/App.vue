@@ -143,7 +143,7 @@ export default {
           "mech": "Download More RAM"
         },
         {
-          "callsign": "Sekhmet",
+          "callsign": "Bastet",
           "alias": "SEKHMET-K4",
           "code": "da58ba8a-32a8-44fe-8316-ecb1aa0448e5.S.K4:da58ba8a-32a8-44fe-8316-ecb1aa0448e5//NDL-C-SECOND-AXE",
           "corpro": "GMS",
