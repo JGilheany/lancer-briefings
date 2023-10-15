@@ -108,7 +108,7 @@ export default {
         {
           "callsign": "Axel",
           "alias": "Jebidiah Diaz",
-          "code": "61d141ca-e9fd-4612-94c1-54e867fa5587Diaz.Jebediah:61d141ca-e9fd-4612-94c1-54e867fa5587//NDL-C-BLACK-STATION"
+          "code": "61d141ca-e9fd-4612-94c1-54e867fa5587Diaz.Jebediah:61d141ca-e9fd-4612-94c1-54e867fa5587//NDL-C-BLACK-STATION",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Bertha"
@@ -116,7 +116,7 @@ export default {
         {
           "callsign": "Eagle",
           "alias": "John War II",
-          "code": "86879ffc-2891-44ed-8885-93bb4f62f871War.John:86879ffc-2891-44ed-8885-93bb4f62f871//NDL-C-BLOOD-ORCHID ",
+          "code": "86879ffc-2891-44ed-8885-93bb4f62f871War.John:86879ffc-2891-44ed-8885-93bb4f62f871//NDL-C-BLOOD-ORCHID",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Bob Battle"
@@ -132,7 +132,7 @@ export default {
         {
           "callsign": "Trojan",
           "alias": "Rod Silver",
-          "code": "0e19579c-5fba-4fc0-a3c2-1476c62cd935Silver.Rod:0e19579c-5fba-4fc0-a3c2-1476c62cd935//NDL-C-IRON-SKY ",
+          "code": "0e19579c-5fba-4fc0-a3c2-1476c62cd935Silver.Rod:0e19579c-5fba-4fc0-a3c2-1476c62cd935//NDL-C-IRON-SKY",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Download More RAM"
